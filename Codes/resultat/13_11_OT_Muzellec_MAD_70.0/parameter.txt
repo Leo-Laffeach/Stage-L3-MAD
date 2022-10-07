@@ -1,0 +1,8 @@
+random seed:
+	42
+missing pourcentage parameter:
+	0.7
+missing pourcentage target:
+	0.6934983727903563
+missing pourcentage source:
+	0.6922577674723056

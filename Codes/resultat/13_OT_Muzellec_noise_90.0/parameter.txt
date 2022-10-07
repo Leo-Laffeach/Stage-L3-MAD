@@ -1,0 +1,2 @@
+missing pourcentage = 0.9
+random seed = 42
